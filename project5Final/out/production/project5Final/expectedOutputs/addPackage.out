@@ -1,0 +1,37 @@
+==========Options==========
+1) Add Package
+2) Add Vehicle
+3) Activate Prime Day
+4) Send Vehicle
+5) Print Statistics
+6) Exit
+===========================
+
+Enter Package ID:
+Enter Product Name:
+Enter Weight:
+Enter Price:
+Enter Buyer Name:
+Enter Address:
+Enter City:
+Enter State:
+Enter ZIP Code:
+
+====================
+TO: Lawson Computer Science Building
+305 N University St           
+West Lafayette, IN, 47907
+Weight:         5.70
+Price:        $49.99
+Product:Echo Dot
+====================
+
+==========Options==========
+1) Add Package
+2) Add Vehicle
+3) Activate Prime Day
+4) Send Vehicle
+5) Print Statistics
+6) Exit
+===========================
+

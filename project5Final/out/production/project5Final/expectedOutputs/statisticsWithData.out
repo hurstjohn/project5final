@@ -1,0 +1,166 @@
+==========Options==========
+1) Add Package
+2) Add Vehicle
+3) Activate Prime Day
+4) Send Vehicle
+5) Print Statistics
+6) Exit
+===========================
+
+Enter Package ID:
+Enter Product Name:
+Enter Weight:
+Enter Price:
+Enter Buyer Name:
+Enter Address:
+Enter City:
+Enter State:
+Enter ZIP Code:
+
+====================
+TO: Lawson Computer Science Building
+305 N University St           
+West Lafayette, IN, 47907
+Weight:         5.50
+Price:        $49.99
+Product:Echo Dot
+====================
+
+==========Options==========
+1) Add Package
+2) Add Vehicle
+3) Activate Prime Day
+4) Send Vehicle
+5) Print Statistics
+6) Exit
+===========================
+
+Enter Package ID:
+Enter Product Name:
+Enter Weight:
+Enter Price:
+Enter Buyer Name:
+Enter Address:
+Enter City:
+Enter State:
+Enter ZIP Code:
+
+====================
+TO: Purdue Pete                   
+101 North Grant Street        
+West Lafayette, IN, 47907
+Weight:         4.50
+Price:       $999.00
+Product:iPhone X
+====================
+
+==========Options==========
+1) Add Package
+2) Add Vehicle
+3) Activate Prime Day
+4) Send Vehicle
+5) Print Statistics
+6) Exit
+===========================
+
+Enter Package ID:
+Enter Product Name:
+Enter Weight:
+Enter Price:
+Enter Buyer Name:
+Enter Address:
+Enter City:
+Enter State:
+Enter ZIP Code:
+
+====================
+TO: Champ de Mars                 
+5 Avenue Anatole France       
+Paris, France, 75007
+Weight:         3.20
+Price:       $500.34
+Product:Crousant
+====================
+
+==========Options==========
+1) Add Package
+2) Add Vehicle
+3) Activate Prime Day
+4) Send Vehicle
+5) Print Statistics
+6) Exit
+===========================
+
+Vehicle Options:
+1) Truck
+2) Drone
+3) Cargo Plane
+Enter License Plate No.:
+Enter Maximum Carry Weight:
+==========Options==========
+1) Add Package
+2) Add Vehicle
+3) Activate Prime Day
+4) Send Vehicle
+5) Print Statistics
+6) Exit
+===========================
+
+Options:
+1) Send Truck
+2) Send Drone
+3) Send Cargo Plane
+4) Send First Available
+ZIP Code Options:
+1) Send to first ZIP Code
+2) Send to mode of ZIP Codes
+1SAG34GS23 has been added.
+ASFBREV has been added.
+==========Drone Report==========
+License Plate No.: 123ABC
+Destination: 47907
+Weight Load: 10.00/10.00
+Net Profit: $1,048.99
+=====Shipping Labels=====
+====================
+TO: Lawson Computer Science Building
+305 N University St           
+West Lafayette, IN, 47907
+Weight:         5.50
+Price:        $49.99
+Product:Echo Dot
+====================
+====================
+TO: Purdue Pete                   
+101 North Grant Street        
+West Lafayette, IN, 47907
+Weight:         4.50
+Price:       $999.00
+Product:iPhone X
+====================
+==============================
+
+==========Options==========
+1) Add Package
+2) Add Vehicle
+3) Activate Prime Day
+4) Send Vehicle
+5) Print Statistics
+6) Exit
+===========================
+
+==========Statistics==========
+Profits:                 $1,048.99
+Packages Shipped:                2
+Packages in Warehouse:           1
+==============================
+
+==========Options==========
+1) Add Package
+2) Add Vehicle
+3) Activate Prime Day
+4) Send Vehicle
+5) Print Statistics
+6) Exit
+===========================
+
